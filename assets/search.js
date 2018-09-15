@@ -1,3 +1,1 @@
----
----
-{%- include scripts/search-data.js -%}
+window.TEXT_SEARCH_DATA={'posts':[{'title':'Welcome','url':'%2Fwelcome.html'}]};
